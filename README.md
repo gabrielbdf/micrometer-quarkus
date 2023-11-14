@@ -1,4 +1,4 @@
-# micrometer-quarkus - Observabilidade.
+# Quarkus - micrometer-quarkus - Observabilidade - Observability
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
